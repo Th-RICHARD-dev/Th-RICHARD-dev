@@ -1,4 +1,3 @@
-```
 ## Bonjour 👋
 
 - 🔭 J'étudie actuellement à l'École by CCI à Annecy
@@ -7,4 +6,3 @@
 - 🤔 Je souhaite apprendre de nombreux languages du web
 - 💬 Découvrez mon portifolio : th-richard-portfolio.vercel.app
 - 📫 Contactez moi : Th.RICHARD2@outlook.com
-```
